@@ -48,7 +48,7 @@ This full-stack web application allows users to log in using Google OAuth, fetch
 ## Setup and Installation
 
 1. Clone the repository
-- git clone https://github.com/your-username/magicslides-email-app.git
+- git clone https://github.com/Vedantjn/magicslides-assignment
 - cd magicslides-assignment
 
 2. Install dependencies for both frontend and backend
