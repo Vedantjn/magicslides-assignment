@@ -61,15 +61,15 @@ This full-stack web application allows users to log in using Google OAuth, fetch
 
 For `client/.env`:
 
-REACT_APP_GOOGLE_CLIENT_ID=your_google_client_id
-REACT_APP_API_BASE_URL=http://localhost:5000
+- REACT_APP_GOOGLE_CLIENT_ID=your_google_client_id
+- REACT_APP_API_BASE_URL=http://localhost:5000
 
 For `server/.env`:
 
-GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-FRONTEND_URL=http://localhost:3000
-PORT=5000
+- GOOGLE_CLIENT_ID=your_google_client_id
+- GOOGLE_CLIENT_SECRET=your_google_client_secret
+- FRONTEND_URL=http://localhost:3000
+- PORT=5000
 
 4. Start the backend server
 - cd server && npm start
